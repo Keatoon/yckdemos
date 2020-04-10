@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'ycktest_Example' do
+  pod 'ycktest', :path => '../'
+
+  target 'ycktest_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
