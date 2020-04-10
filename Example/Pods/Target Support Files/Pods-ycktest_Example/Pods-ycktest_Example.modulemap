@@ -1,0 +1,6 @@
+framework module Pods_ycktest_Example {
+  umbrella header "Pods-ycktest_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

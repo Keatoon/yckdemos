@@ -1,0 +1,6 @@
+framework module ycktest {
+  umbrella header "ycktest-umbrella.h"
+
+  export *
+  module * { export * }
+}

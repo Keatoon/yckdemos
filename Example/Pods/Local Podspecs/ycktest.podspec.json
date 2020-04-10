@@ -1,0 +1,22 @@
+{
+  "name": "ycktest",
+  "version": "0.1.0",
+  "summary": "A short description of ycktest.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/1793558729@qq.com/ycktest",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "1793558729@qq.com": "1793558729@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/1793558729@qq.com/ycktest.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ycktest/Classes/**/*"
+}
